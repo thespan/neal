@@ -1,9 +1,8 @@
-# Minnosh <small>1.0.5</small>
+# Neal <small>1.0.0</small>
 
-> Personal & Lifestyle Blog.
+> A Creative WordPress Blog.
 
 - 10 + Different Layouts
-- Light & Dark Versions
 - 10 + Custom Shortcodes
 
 [Get Support](http://thespan.ml/wordpress-themes/support/minnosh/)
