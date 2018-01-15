@@ -1,6 +1,6 @@
 # Neal <small>1.0.0</small>
 
-> A Creative WordPress Blog.
+> A Creative WordPress Blog Theme.
 
 - 10 + Different Layouts
 - 10 + Custom Shortcodes
