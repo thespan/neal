@@ -1,8 +1,8 @@
-# Minnosh - Personal & Lifestyle  Blog Theme
+# Neal - A Creative WordPress Blog Theme
 
 > An awesome WordPress Project.
 
-**Minnosh** - is a clean and nice WordPress Blog Theme. You can easily and quickly create your blog website with Minnosh. Easily customizable with WordPress Live Theme Customizer. Finally, every single element of in Minnosh is entirely responsive, as content can be viewed from desktop and mobile devices.
+**Neal** - is a clean and nice WordPress Blog Theme. You can easily and quickly create your blog website with Minnosh. Easily customizable with WordPress Live Theme Customizer. Finally, every single element of in Minnosh is entirely responsive, as content can be viewed from desktop and mobile devices.
 
 ![Minnosh](_media/minnosh-image.jpg)
 
