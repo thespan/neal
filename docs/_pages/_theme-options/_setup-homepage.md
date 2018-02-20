@@ -21,8 +21,14 @@ You can customize the Carousel Posts like on the screenshot.
 
 ![Carousel posts setup](_media/carousel-posts-setup.jpg)
 
-## About Me
+## 2 Grid Posts
 
-You can customize the About Me like on the screenshot. 
+You can customize the 2 Grid Posts like on the screenshot. 
 
-![About me setup](_media/about-me-setup.jpg)
+![2 Grid posts setup](images/2-grid-posts-setup.jpg)
+
+## Adv Blocks
+
+You can customize the Adv Blocks like on the screenshot.
+
+![Adv Block setup](images/adv-block-setup.jpg)
