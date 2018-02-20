@@ -1,23 +1,23 @@
-# Install Minnosh Theme
+# Install Neal Theme
 
-After you download the package from ThemeForest, please unzip it. You'll see a file called `minnosh.zip`, which is the main file needed to upload and install.
+After you download the package from ThemeForest, please unzip it. You'll see a file called `neal.zip`, which is the main file needed to upload and install.
 
 You can either choose to upload and installl the theme using **WordPress theme install** or use **FTP** function.
 
 
 ## Install via WordPress Dashboard
 
-![Install Minnosh via WordPress Dashboard](_media/install-theme.png)
+![Install Neal via WordPress Dashboard](_media/install-theme.png)
 
 **Step 1** – Navigate to **Appearance > Themes**.
 
 **Step 2** – Click the **Add New** button on top of the page, then the **Upload Theme** button.
 
-**Step 3** – Click **Choose File** and find the theme files you've just downloaded. If you’ve downloaded the installable WordPress file, then you do not need to unzip the file. If you’ve downloaded the Full Theme Package, you have to unzip the master `minnosh.zip` file, therein you will see a secondary `minnosh.zip` file, this is the one you select to install.
+**Step 3** – Click **Choose File** and find the theme files you've just downloaded. If you’ve downloaded the installable WordPress file, then you do not need to unzip the file. If you’ve downloaded the Full Theme Package, you have to unzip the master `neal.zip` file, therein you will see a secondary `neal.zip` file, this is the one you select to install.
 
 **Step 4** - Click the **Install Now** button.
 
-**Step 5** – When upload and installation progresses are completed, click **Activate**, or go to `Appearance > Themes` and activate the **Minnosh** theme
+**Step 5** – When upload and installation progresses are completed, click **Activate**, or go to `Appearance > Themes` and activate the **Neal** theme
 
 
 
@@ -25,11 +25,11 @@ You can either choose to upload and installl the theme using **WordPress theme i
 
 If you get any fail when install theme by Wordpress install function, we recommend to use FTP.
 
-**Step 1** - If you have downloaded the Full Theme Package from ThemeForest, please unzip the package file to get the theme file `minnosh.zip`. Unzip the `minnosh.zip` file, you'll get a folder `minnosh`
+**Step 1** - If you have downloaded the Full Theme Package from ThemeForest, please unzip the package file to get the theme file `neal.zip`. Unzip the `neal.zip` file, you'll get a folder `neal`
 
 **Step 2** - Use a FTP client like [FileZilla](http://filezilla-project.org/) and upload the extracted folder to `wp-content/themes` folder on your host
 
-**Step 3** - Log in to your WordPress Dashboard and navigate to **Appearance > Themes** and clicking the **Activate** button of the Minnosh theme.
+**Step 3** - Log in to your WordPress Dashboard and navigate to **Appearance > Themes** and clicking the **Activate** button of the Neal theme.
 
 
 ## Troubleshooting
