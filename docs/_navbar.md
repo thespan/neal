@@ -1,2 +1,2 @@
-- [Get Support](http://thespan.ml/wordpress-themes/support/minnosh/)
-- [Buy Minnosh](https://themeforest.net/item/minnosh-personal-lifestyle-blog/20757593?ref=TheSpan)
+- [Get Support](http://thespan.ml/wordpress-themes/support/neal/)
+- [Buy Neal](https://themeforest.net/item/neal-a-creative-wordpress-blog-theme/21326288?ref=TheSpan)
