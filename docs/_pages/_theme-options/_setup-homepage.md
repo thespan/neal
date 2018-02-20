@@ -1,9 +1,19 @@
 # Setup Homepage
 
-Minnosh allows you to easily arrange the Homepage, you can change the places by dragging and dropping the tabs, you can show / hide the desired fields by clicking on the open close buttons. There are 2 columns, you can show them what you want on the homepage or hide them:
+Neal allows you to easily arrange the Homepage, you can change the places by dragging and dropping the tabs, you can show / hide the desired fields by clicking on the open close buttons. There are 12 columns, you can show them what you want on the homepage or hide them:
 
-- **Carousel Posts** - With the Owl Slider you can show as much as you want with recent posts or featured posts.
-- **About Me** - The About card on Homepage.
+- Carousel Posts
+- Full Featured Post
+- Masonry Posts
+- 2 Grid Posts
+- Adv Block 1
+- Full Posts
+- List Posts
+- Adv Block 2
+- Slider Posts
+- 3 Grid Posts
+- Adv Block 3
+- Newsletter
 
 ## Carousel Posts
 
