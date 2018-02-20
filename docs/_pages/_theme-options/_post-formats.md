@@ -1,6 +1,6 @@
 # Post Formats
 
-If you aren't familiar with Post Formats please read this article on Wordpress Codex. **Minnosh Theme** supports 6 Post Formats for **Blog Posts.**
+If you aren't familiar with Post Formats please read this article on Wordpress Codex. **Neal Theme** supports 6 Post Formats for **Blog Posts.**
 
 ![Post Formats](_media/post-formats.jpg)
 
