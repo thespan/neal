@@ -1,7 +1,8 @@
 # Neal <small>1.0.0</small>
 
 > A Creative WordPress Blog Theme.
-- 6 Distinct Homepages
+
+- 6 Different Homepages
 - 10 + Different Layouts
 - 10 + Custom Shortcodes
 
