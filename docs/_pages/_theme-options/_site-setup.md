@@ -8,6 +8,7 @@ To create a new page, within your dashboard you should go to **Pages > Add New.*
 
  - **Contact** - Contact Page
  - **Homepage** - Home Page
+ - **Portfolio** - Portfolio Page
 
 ![Setup Site Templates](_media/setup-temp.jpg)
 
@@ -22,6 +23,6 @@ To determine which would be displayed as **Front Page** and which one as **Posts
 
 Now, once we've created all necessary pages we should display them in Navigation Menu. Within your Dashboard go to **Appearance > Menus** and click on **Create Menu**
 
-Menu Name ex: "Main Menu" and then assign Theme Locations: **Main Menu** After that click on **Save Menu** and you're done.
+Menu Name ex: "Left menu" and then assign Theme Locations: **Primary Menu** After that click on **Save Menu** and you're done.
 
 ![Create Menus](_media/create-menus.jpg)
