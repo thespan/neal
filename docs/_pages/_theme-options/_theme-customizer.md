@@ -1,6 +1,6 @@
 # Theme Customizer
 
-Minnosh offers you the option of customizing many areas easily with WordPress Customizer Panel.
+Neal offers you the option of customizing many areas easily with WordPress Customizer Panel.
 You can access the theme customizer by going to Appearance > Customize
 
 The Customizer panel structure:
