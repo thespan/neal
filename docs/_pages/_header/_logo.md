@@ -9,7 +9,7 @@ Upload your logo from **Logo Image** option
 
 ## Use text Logo
 
-If you want to use text logo, Minnosh has options helping you design your text logo easily. Please follow these steps:
+If you want to use text logo, Neal has options helping you design your text logo easily. Please follow these steps:
 
 - Close Logo Image and Open Text Logo.
 - Enter the text for your logo in option Text Logo.
