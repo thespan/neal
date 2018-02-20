@@ -2,22 +2,29 @@
 
 > An awesome WordPress Project.
 
-**Neal** - is a clean and nice WordPress Blog Theme. You can easily and quickly create your blog website with Minnosh. Easily customizable with WordPress Live Theme Customizer. Finally, every single element of in Minnosh is entirely responsive, as content can be viewed from desktop and mobile devices.
-
-![Minnosh](_media/minnosh-image.jpg)
+**Neal** – is a creative and nice WordPress Blog Theme. You can easily and quickly create your blog website with Neal. Easily customizable with WordPress Live Theme Customizer. Finally, every single element of in Neal is entirely responsive, as content can be viewed from desktop and mobile devices.
 
 ## Features
 
 - 24/7 Support & FREE Lifetime Updates!
 - WordPres Live Theme Customizer (Highly Customizable)
 - One-Click Import of Demo Content
-- WooCommerce comaptible
+- WooCommerce Compatible
+- Jetpack Plugin compatibility
 - 100% Responsive
-- Light & Dark Version
-- 5 Header layouts
-- 3 Footer layouts
+- 6 distinct homepages
+- 6 Header layouts
+- 4 Footer layouts
+- 6 Single Post layouts
+- Parallax Post
+- 3 Single Post comment types:
+  - Default
+  - Facebook
+  - Disqus
+- 10+ Custom shortcodes
 - Multi Blog Layouts
 - Static / Fixed Header
+- Static / Fixed Footer
 - Full Post then Grid Layout
 - Classic Layout
 - Grid Layout
@@ -26,26 +33,38 @@
 - Featured Posts Carousel With multi Option
 - Featured Categories
 - Multi Level Submenu Support
+- User Dashboard
+- User Login and Registration
 - Post Formats:
-	- Standard Posts
-	- Gallery Posts
-	- Video Posts
-	- Audio Posts
-	- Link Posts
-	- Quote Posts
+  - Standard Posts
+  - Gallery Posts
+  - Video Posts
+  - Audio Posts
+  - Link Posts
+  - Quote Posts
 - Related Post
+- Custom Advertisement Blocks
+- Custom Subscription on post single
 - Full & Boxed Width Instagram Feed in Footer
-- Custom Author vCard
 - Custom About Me Widget
 - Custom Facebook Widget
+- Instagram Widget
+- Custom Posts Widget
+- Custom Subscription(Jetpack) Widget
+- Custom Advertisement Widget
+- Custom Portfolio
 - Customizable Google Maps
-- Two different types of pagination
+- 3 Pagination Types on Blog Lists
+- Standard Pagination
+- Load More Pagination
+- Infinite Scroll Pagination
+- Mega Menu supported
 - Live Color Options
 - Breadcrumbs
 - Custom Copyright Input
 - Custom CSS
 - Custom Typography
-- Websafe and 800+ Google Fonts
+- Websafe, Custom Fonts Uploading and 800+ Google Fonts
 - Google font Subsets: Latin, Cyrillic, Greek etc.
 - Translation Ready – .pot file include (WPML Friendly)
 - Font Awesome and Ion icons
