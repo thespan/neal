@@ -1,6 +1,6 @@
-# Requirements for Minnosh
+# Requirements for Neal
 
-To use Minnosh, please make sure you are running WordPress 4.1 or higher, PHP 5.3 or higher, and MySQL 5.6 or higher. We have tested it with Mac, Windows and Linux. Besides, please check the recommended server configuration for proper theme functioning:
+To use Neal, please make sure you are running WordPress 4.1 or higher, PHP 5.3 or higher, and MySQL 5.6 or higher. We have tested it with Mac, Windows and Linux. Besides, please check the recommended server configuration for proper theme functioning:
 
 **Minimum server configuration**
 
