@@ -1,4 +1,4 @@
-# Neal <small>1.0.0</small>
+# Neal <small>1.0.1</small>
 
 > A Creative WordPress Blog Theme.
 
