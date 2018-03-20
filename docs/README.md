@@ -76,4 +76,4 @@
 
 ## Purchasing
 
-If you like it and if you didn't buy it, it's time to [buy](https://themeforest.net/item/minnosh-personal-lifestyle-blog/20757593?ref=TheSpan) it. :blush: Please do not forget to rate it after you buy the theme. :heart:
+If you like it and if you didn't buy it, it's time to [buy](https://themeforest.net/item/neal-a-creative-wordpress-blog-theme/21326288?ref=TheSpan) it. :blush: Please do not forget to rate it after you buy the theme. :heart:
